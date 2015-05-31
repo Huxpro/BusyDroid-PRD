@@ -32,9 +32,8 @@ and present a Todo-list **sorted by date** to you.
 
 ## Catalog
 
-1. Version 0.4.0
-	* [PRD](prd/0.4.0.md)
-	* [Design Draft](draft/)
+1. Version 0.5.0
+	* [PRD](prd/0.5.0.md)
 	
 
 ## Reference
